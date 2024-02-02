@@ -1,0 +1,17 @@
+*{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+.content{
+  background-color: rgba(255, 127, 80, 0.493);
+}
+input{
+  width: 300px;
+  height: 30px;
+  font-size: 20px;
+}
+button{
+  font-weight: 800;
+}
